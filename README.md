@@ -1,6 +1,6 @@
 # SPACE PONG TERM PROJECT BY TUGRA DEMIREL
 
-##### GITHUB: DEANTU
+##### GITHUB: DEANNTU
 - to start app run Main.java without any argument
 - Click on "leftmost button" - "UFO" to change game concept to respectively "Tooth" , "Corona" , and "UFO" concept again
 - Click on "second from left button" - "Come To Dark Side" to change game theme to respectively "Dark", and "Bright" theme again
