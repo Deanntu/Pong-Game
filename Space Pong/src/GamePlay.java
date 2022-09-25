@@ -196,9 +196,10 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener{
 	private Image createImg(String name) {
 		BufferedImage img = null;
 		try {
-		    img = ImageIO.read(new File("src/TermProject/"+name));
+		    img = ImageIO.read(getClass().getResource("TermProject/"+name));
 			
 		} catch (IOException e) {
+			e.printStackTrace();
 		}
 		return img;
 	}
